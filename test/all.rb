@@ -1,0 +1,6 @@
+require 'test/unit'
+require_relative 'decoder_mov_test'
+require_relative 'decoder_add_test'
+require_relative 'decoder_sub_test'
+require_relative 'decoder_cmp_test'
+require_relative 'decoder_jumps_test'
